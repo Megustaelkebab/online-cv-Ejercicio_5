@@ -31,7 +31,8 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: 
+    pdf: #
+    
     languages:
       title: Languages
       info:
@@ -57,7 +58,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Sobre mi:
+    title: Sobre mi
     summary: |
    Me gusta el kebab, el fuet y la petanca
 education:
