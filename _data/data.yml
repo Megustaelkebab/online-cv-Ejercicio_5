@@ -47,13 +47,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Video Games
+        - item: VideoJuegos
           link:
 
-        - item: Professional Petanca
+        - item: Petanca profesional
           link:
 
-        - item: Sports
+        - item: Deportes
           link:
 
 career-profile:
@@ -63,9 +63,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: ESO
+        university: IES Betxí
+        time: 2019 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,9 +74,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachiller HCS
+        university: IES Betxí
+        time: 2023 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
